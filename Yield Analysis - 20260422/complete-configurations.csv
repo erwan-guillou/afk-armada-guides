@@ -1,0 +1,17 @@
+classe,vaisseau,nb_total_cfg,nb_valid_cfg
+Corvette,Starter Shuttle,98,0
+MiningShip,Mining Skiff,6585600,0
+MiningShip,Prospector,180075,0
+Barge,Mining Barge,138544560,0
+Barge,Extractor,19756800,0
+Barge,Ironclad,327468960,0
+Barge,Titan Drill,544282200,0
+Barge,Bastion,4387244400,0
+Barge,Heavy Mining Barge,1964813760,0
+IceMiningShip,Glacier King,3386880,0
+IceMiningShip,Ice Skimmer,185220,0
+IceMiningShip,Frostbreaker,987840,0
+GasMiningShip,Vapor Collector,987840,0
+GasMiningShip,Mining Leviathan,3386880,0
+GasMiningShip,Nebula Runner,185220,0
+Hauler,Oremaster,17640,0
